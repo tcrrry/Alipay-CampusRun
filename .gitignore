@@ -1,0 +1,10 @@
+# Files exceeding GitHub 100 MB file size limit (bundled in GitHub Releases)
+packages/WSA-Magisk-verified.7z
+packages/Alipay-official-64.apk
+
+# Build / temporary artifacts & OS files
+Alipay-CampusRun-*.zip
+Thumbs.db
+.DS_Store
+*.log
+*.tmp
